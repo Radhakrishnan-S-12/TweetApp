@@ -1,5 +1,5 @@
 dynamo:
-  accessKey: AKIA4BHE375ZJMNLR7D2
+  accessKey: *******************
   secretKey: *******************
   signingRegion: us-east-2
   serviceEndpoint: dynamodb.us-east-2.amazonaws.com
